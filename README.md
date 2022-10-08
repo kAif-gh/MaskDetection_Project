@@ -5,6 +5,11 @@ This project aims to detect whether the person in the video feed is wearing
 Mask or not by implementing MobileNetv2 in the deep learning model and deploy it in 
 web application with Flask
 
+# Details 
+
+- train deep learning model using mobileNetv2 with dataSet from kaggle
+- develop an web interface using Flask
+
 
 ## Technologies
 
