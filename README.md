@@ -2,7 +2,7 @@
 # Mask Detector Project
 
 This project aims to detect whether the person in the video feed is wearing
-Mask or not by implementing MobileNetv2 in the deep learning model and deploy it in 
+Mask or not by implementing mobilenet_v2 in the deep learning model and deploy it in 
 web application with Flask
 
 # Details 
@@ -14,7 +14,7 @@ web application with Flask
 ## Technologies
 
 * Python
-* MobileNetv2
+* mobilenet_v2
 * OpenCV
 * Flask
 
